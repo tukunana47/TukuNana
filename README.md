@@ -1,2 +1,0 @@
-# TukuNana
-Git Learning Repository
